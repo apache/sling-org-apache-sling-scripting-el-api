@@ -36,7 +36,7 @@
   <description>This bundle wraps the Apache Tomcat 6.0.14 EL API used by Apache Sling Scripting JSP.</description>
 
   <scm>
-    <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-scripting-el-api.git</conncetion>
+    <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-scripting-el-api.git</connection>
     <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-scripting-el-api.git</developerConnection>
     <url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-scripting-el-api.git</url>
   </scm>
