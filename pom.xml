@@ -32,7 +32,7 @@
   <version>1.0.3-SNAPSHOT</version>
 
   <name>Apache Sling Scripting EL API Wrapper</name>
-  <description>This bundle wraps the Apache Tomcat 6.0.14 EL API used by Apache Sling Scripting JSP.</description>
+  <description>This bundle wraps the Apache Tomcat 6.0.53 EL API used by Apache Sling Scripting JSP.</description>
 
   <scm>
     <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-scripting-el-api.git</connection>
@@ -45,7 +45,7 @@
     <dependency>
       <groupId>org.apache.tomcat</groupId>
       <artifactId>el-api</artifactId>
-      <version>6.0.14</version>
+      <version>6.0.53</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
